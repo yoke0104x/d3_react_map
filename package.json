@@ -5,8 +5,10 @@
   "dependencies": {
     "@types/react": "^18.0.8",
     "@types/react-dom": "^18.0.2",
+    "d3": "^7.8.2",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "topojson-client": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
